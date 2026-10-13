@@ -1,0 +1,20 @@
+{
+  "name": "drawing-takeoff",
+  "version": "0.1.0",
+  "description": "Quantity takeoff, drawing markup, interactive HTML takeoff page and estimate support from construction plan-set PDFs, measured from embedded CAD layers and verified visually.",
+  "author": {
+    "name": "Pragya"
+  },
+  "keywords": [
+    "takeoff",
+    "estimating",
+    "construction",
+    "drawings",
+    "PDF",
+    "civil",
+    "EV charging"
+  ],
+  "homepage": "https://github.com/constructionlive/takeoff",
+  "repository": "https://github.com/constructionlive/takeoff",
+  "license": "MIT"
+}

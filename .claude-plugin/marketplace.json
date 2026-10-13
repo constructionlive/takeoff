@@ -1,0 +1,12 @@
+{
+  "name": "drawing-takeoff",
+  "owner": { "name": "Pragya" },
+  "description": "Construction quantity takeoff and estimating skills for Claude Code.",
+  "plugins": [
+    {
+      "name": "drawing-takeoff",
+      "source": "./",
+      "description": "Quantity takeoff and estimate support from construction drawings (PDF), with CAD-layer measurement, markup verification and an editable HTML takeoff page."
+    }
+  ]
+}
